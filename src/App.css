@@ -62,6 +62,7 @@
 .calendar-container {
   position: absolute;
   top: 100%;
+  /* font-size: 0.8rem; */
 }
 .calendar-logo {
   width: 1rem;
