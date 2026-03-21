@@ -71,6 +71,10 @@
   right: 1rem;
   bottom: 1rem;
 }
+.arrow{
+  width: 0.8rem;
+  cursor: pointer;
+}
 input::placeholder {
   color: #C9C9C9;
 }
