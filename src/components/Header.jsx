@@ -11,8 +11,8 @@ export default function Header() {
 
     return (
         <header>
-            <h1 className="inter-semibold">Good {greeting}, User 👋</h1>
-            <h2 className="inter-medium gray">It's {currentDate}</h2>
+            <h1 className="inter-semibold px-28">Good {greeting}, User 👋</h1>
+            <h2 className="inter-medium gray px-16">It's {currentDate}</h2>
         </header>
     )
 }
